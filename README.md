@@ -18,16 +18,20 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     19 mins             ██████████████░░░░░░░░░░░   59.14% 
+JavaScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JimR21                   24 mins             ██████████████████░░░░░░░   75.0% 
+nordvpn-linux-gui        8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -48,7 +52,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 <!--
