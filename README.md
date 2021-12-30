@@ -20,16 +20,16 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-JavaScript               5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nordvpn-linux-gui        5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -50,7 +50,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 <!--
