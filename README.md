@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C307%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C309%20hrs%2017%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -20,16 +20,18 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 min               ████████████████████████░   99.25% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+edh                      1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -50,7 +52,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 
 <!--
