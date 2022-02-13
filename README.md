@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C336%20hrs%2021%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -54,7 +52,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2022 18:40:50 UTC
+ Last Updated on 13/02/2022 18:40:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
