@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -69,5 +69,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
