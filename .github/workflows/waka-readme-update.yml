@@ -17,7 +17,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_COMMIT: "False" # flag can be set to False to hide the commit stats
+          SHOW_COMMIT: "True" # flag can be set to False to hide the commit stats
           # SHOW_OS: "False"
           # SHOW_PROJECTS: "False"
           # LOCALE This Flag can be used to show stats in your language default is english uses Locale Short Hand to be passed in the flag variable example of the final result can be found here
