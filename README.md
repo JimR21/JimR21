@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C449%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C451%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,16 +9,22 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     30 mins             █████████████░░░░░░░░░░░░   53.41% 
+Java                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.36% 
+Properties               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Shell Script             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 48 mins             █████████████████████░░░░   85.46% 
+VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.54%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sonarqube                48 mins             █████████████████████░░░░   85.46% 
+Unknown Project          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.54%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    56 mins             █████████████████████████   100.0%
 
 ```
 
@@ -39,7 +45,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:47:45 UTC
+ Last Updated on 12/05/2022 18:50:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
