@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C474%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C475%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,10 +9,10 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Java                     4 hrs 41 mins       █████████████████████░░░░   85.43% 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
+Java                     4 hrs 41 mins       █████████████████████░░░░   85.44% 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
 protobuf                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-Protocol Buffer          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
+Protocol Buffer          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
 TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
@@ -44,7 +44,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:41:35 UTC
+ Last Updated on 13/06/2022 18:47:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
