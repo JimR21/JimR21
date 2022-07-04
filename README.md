@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C496%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C498%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,7 +44,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2022 18:42:44 UTC
+ Last Updated on 04/07/2022 18:45:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
