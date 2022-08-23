@@ -9,16 +9,19 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Batch                    2 mins              ████████████░░░░░░░░░░░░░   50.31% 
+Groovy                   2 mins              ██████████░░░░░░░░░░░░░░░   41.73% 
+Shell Script             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sonar-enterprise         5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -39,7 +42,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2022 18:46:12 UTC
+ Last Updated on 23/08/2022 18:46:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
