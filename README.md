@@ -1,31 +1,7 @@
 <a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C588%20hrs%2017%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Zurich
-
-💬 Programming Languages: 
-Markdown                 12 hrs 28 mins      ████████████████████░░░░░   82.68% 
-Java                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Batchfile                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-🔥 Editors: 
-IntelliJ                 15 hrs 5 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-sonar-enterprise         14 hrs 59 mins      ████████████████████████░   99.36% 
-sonar-scanner-jenkins    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
-
-💻 Operating System: 
-Linux                    15 hrs 5 mins       █████████████████████████   100.0%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C589%20hrs%2020%20mins-blue)
 
 **I Mostly Code in Java** 
 
@@ -44,7 +20,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:46:13 UTC
+ Last Updated on 04/09/2022 18:47:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
