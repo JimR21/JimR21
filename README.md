@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/JimR21"><img src="https://api.daily.dev/devcards/1a6ea627b9cf4de4a4f1b5f5cac8c85e.png?r=t8i" width="400" alt="Dimitris Kavvathas's Dev Card"/></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C631%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C632%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,11 +9,11 @@
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-Java                     8 hrs 37 mins       ██████████████████░░░░░░░   72.53% 
-XML                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+Java                     8 hrs 55 mins       ██████████████████░░░░░░░   75.05% 
+XML                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
 Gradle                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
-TypeScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
+Log                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
 
 🔥 Editors: 
 IntelliJ                 11 hrs 53 mins      █████████████████████████   100.0%
@@ -44,7 +44,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JimR21/JimR21/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 18:59:30 UTC
+ Last Updated on 28/09/2022 18:57:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
